@@ -1,0 +1,1 @@
+pyuic5 design_v2.ui -o design_old_colors.py
