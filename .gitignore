@@ -1,0 +1,11 @@
+/venv
+/docs
+/html
+/html_backup
+/mail_files
+dat.py
+debug.log
+main_old.py
+process_doc.py
+res.qrc
+upload_app.db
