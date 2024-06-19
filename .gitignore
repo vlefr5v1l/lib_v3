@@ -3,6 +3,7 @@
 /html
 /html_backup
 /mail_files
+/.idea
 dat.py
 debug.log
 main_old.py
